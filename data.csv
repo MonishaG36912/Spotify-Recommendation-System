@@ -1,0 +1,101 @@
+Artist,Title,Danceability,Energy,Tempo,Genre_Rock,Genre_Indie,Genre_Pop
+Selena Gomez,Nightfall,0.34,0.59,171,1,0,1
+Olivia Rodrigo,Nightfall,0.34,0.59,170,1,1,0
+Selena Gomez,Song A,0.64,0.66,177,0,1,0
+Selena Gomez,Nightfall,0.8,0.47,134,0,0,1
+Shawn Mendes,New Wave,0.9,0.73,84,1,0,0
+Shawn Mendes,Nightfall,0.55,0.56,83,1,1,0
+Billie Eilish,New Wave,0.49,0.53,123,0,0,0
+Coldplay,Dreams,0.39,0.67,111,0,1,0
+Doja Cat,Heartbeat,0.64,0.94,64,0,1,0
+Imagine Dragons,Dreams,0.78,0.85,107,0,0,0
+Selena Gomez,Sunshine,0.89,0.45,71,0,0,1
+Selena Gomez,Song B,0.84,0.49,154,0,1,1
+Shawn Mendes,Song A,0.63,0.81,140,0,0,1
+Imagine Dragons,Song B,0.84,0.48,177,1,0,1
+Ariana Grande,Hit Track,0.58,0.71,83,1,0,1
+Bruno Mars,Summer Vibes,0.52,0.52,118,1,0,0
+Taylor Swift,Nightfall,0.54,0.93,142,0,1,0
+Ed Sheeran,Nightfall,0.55,0.45,143,0,0,1
+Coldplay,Song A,0.84,0.81,78,0,0,0
+Ariana Grande,Heartbeat,0.84,0.46,131,0,0,1
+Coldplay,Nightfall,0.71,0.71,102,1,1,0
+Maroon 5,Sunshine,0.58,0.82,135,0,1,0
+Harry Styles,New Wave,0.89,0.95,148,1,1,0
+Ed Sheeran,Hit Track,0.62,0.74,87,0,0,1
+Billie Eilish,Latest Tune,0.89,0.67,71,0,1,0
+Lorde,New Wave,0.55,0.82,171,0,1,0
+Ariana Grande,Sunshine,0.34,0.63,142,0,1,0
+Imagine Dragons,Nightfall,0.66,0.65,64,0,1,0
+Harry Styles,Summer Vibes,0.81,0.82,143,0,0,0
+Taylor Swift,Heartbeat,0.78,0.64,154,0,1,1
+Bruno Mars,New Wave,0.84,0.89,92,1,1,1
+Imagine Dragons,Summer Vibes,0.75,0.43,178,1,1,0
+Doja Cat,Nightfall,0.78,0.51,89,0,0,0
+Doja Cat,Song B,0.65,0.73,74,1,1,1
+Harry Styles,Summer Vibes,0.59,0.91,160,1,1,1
+Post Malone,Sunshine,0.61,0.9,166,1,0,1
+Dua Lipa,Song A,0.9,0.82,143,1,1,0
+Taylor Swift,Dreams,0.32,0.43,98,0,0,1
+Adele,New Wave,0.8,0.89,156,0,1,0
+The Weeknd,Hit Track,0.68,0.66,132,0,1,0
+Bruno Mars,Sunshine,0.88,0.95,82,0,0,1
+Adele,New Wave,0.75,0.82,65,1,1,1
+The Weeknd,Hit Track,0.58,0.91,85,1,1,0
+Coldplay,Dreams,0.72,0.48,87,0,1,1
+Bruno Mars,Heartbeat,0.45,0.78,89,1,1,0
+Coldplay,Sunshine,0.42,0.66,154,1,0,0
+Maroon 5,Hit Track,0.78,0.87,72,0,0,0
+Selena Gomez,Song A,0.44,0.77,123,0,0,1
+Doja Cat,Song A,0.34,0.52,74,1,1,0
+Coldplay,Heartbeat,0.37,0.43,121,1,1,1
+Imagine Dragons,Latest Tune,0.35,0.49,140,0,1,1
+Sam Smith,Dreams,0.78,0.87,127,1,1,0
+Bruno Mars,Nightfall,0.63,0.58,71,0,1,0
+Shawn Mendes,New Wave,0.41,0.73,88,1,0,0
+Ariana Grande,Dreams,0.58,0.62,84,0,1,0
+Taylor Swift,Hit Track,0.35,0.91,150,0,1,1
+Khalid,New Wave,0.85,0.65,96,0,0,1
+Doja Cat,Latest Tune,0.51,0.44,119,1,0,0
+Adele,Dreams,0.42,0.45,118,0,0,1
+Olivia Rodrigo,Hit Track,0.31,0.9,88,1,0,1
+Shawn Mendes,Summer Vibes,0.77,0.66,152,1,0,1
+Shawn Mendes,Nightfall,0.55,0.9,104,1,1,1
+Doja Cat,Sunshine,0.52,0.73,87,0,0,0
+Adele,Hit Track,0.43,0.68,173,1,0,1
+Billie Eilish,Song B,0.71,0.88,164,0,0,1
+Adele,Song A,0.87,0.74,154,1,0,1
+Imagine Dragons,Hit Track,0.61,0.48,105,1,0,0
+Sam Smith,Summer Vibes,0.35,0.66,109,0,1,1
+Selena Gomez,Heartbeat,0.34,0.46,175,0,0,1
+Coldplay,Dreams,0.43,0.82,172,0,0,0
+Billie Eilish,Sunshine,0.72,0.52,130,1,0,0
+Taylor Swift,Sunshine,0.44,0.74,114,1,0,1
+Doja Cat,Heartbeat,0.56,0.53,148,1,1,0
+Taylor Swift,Dreams,0.82,0.44,74,1,1,0
+Olivia Rodrigo,Dreams,0.87,0.4,154,1,0,0
+Selena Gomez,Summer Vibes,0.8,0.75,97,1,1,0
+Adele,Summer Vibes,0.54,0.67,128,0,1,0
+Maroon 5,Summer Vibes,0.67,0.41,180,0,1,0
+Ariana Grande,Latest Tune,0.41,0.76,111,1,1,0
+Post Malone,Song B,0.71,0.8,149,1,1,0
+Billie Eilish,Dreams,0.7,0.53,113,1,0,1
+Harry Styles,Hit Track,0.85,0.63,69,0,1,1
+The Weeknd,Latest Tune,0.63,0.77,111,0,1,0
+Billie Eilish,Hit Track,0.55,0.95,75,1,1,0
+Maroon 5,Latest Tune,0.82,0.81,138,0,0,0
+Ariana Grande,Latest Tune,0.83,0.67,133,0,0,0
+Doja Cat,Hit Track,0.67,0.49,75,1,1,1
+Harry Styles,Nightfall,0.82,0.65,92,1,1,0
+Ed Sheeran,New Wave,0.33,0.86,144,1,0,0
+Taylor Swift,New Wave,0.8,0.94,140,0,0,1
+Olivia Rodrigo,Song A,0.56,0.87,75,0,1,1
+Billie Eilish,Summer Vibes,0.45,0.47,122,1,1,0
+Adele,Song A,0.87,0.75,100,0,0,0
+Sam Smith,Heartbeat,0.74,0.55,99,0,1,0
+The Weeknd,New Wave,0.76,0.88,114,0,1,0
+Lorde,Sunshine,0.46,0.88,168,1,0,0
+Bruno Mars,Dreams,0.5,0.54,126,1,1,1
+Khalid,New Wave,0.52,0.68,166,1,0,0
+Doja Cat,Song A,0.9,0.5,174,1,1,1
+Olivia Rodrigo,Nightfall,0.65,0.74,174,1,1,1
