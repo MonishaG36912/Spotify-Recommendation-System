@@ -1,7 +1,7 @@
 Artist,Title,Danceability,Energy,Tempo,Genre_Rock,Genre_Indie,Genre_Pop
-Olivia Rodrigo,vampire,0.62,0.75,90,0,1,1
-The Weeknd,Blinding Lights,0.73,0.8,171,1,0,1
-Billie Eilish,Happier Than Ever,0.55,0.6,135,0,1,1
-Taylor Swift,Anti-Hero,0.67,0.7,97,0,1,1
-One Direction,Story of My Life,0.6,0.65,120,1,0,1
-Adele,Easy On Me,0.48,0.45,70,0,1,0
+Olivia Rodrigo,vampire,0.62,0.75,0.198,0,1,1
+The Weeknd,Blinding Lights,0.73,0.8,1,1,0,1
+Billie Eilish,Happier Than Ever,0.55,0.6,0.644,0,1,1
+Taylor Swift,Anti-Hero,0.67,0.7,0.267,0,1,1
+One Direction,Story of My Life,0.6,0.65,0.495,1,0,1
+Adele,Easy On Me,0.48,0.45,0,0,1,0
